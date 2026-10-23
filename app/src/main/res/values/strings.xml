@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SmartPantryManager</string>
+    <string name="my_pantry">My Pantry</string>
+    <string name="your_pantry_is_empty_add_your_first_ingredient">Your pantry is empty - add your first ingredient.</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="back">Back</string>
+    <string name="edit_ingredient">Edit Ingredient</string>
+    <string name="ingredient_name">Ingredient name</string>
+    <string name="quantity">Quantity</string>
+    <string name="expiry_hint">Expiry date (YYYY-MM-DD, optional)</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_name_required">Please enter an ingredient name</string>
+    <string name="error_quantity_invalid">Enter a quantity greater than 0</string>
+    <string name="error_date_invalid">Use the format YYYY-MM-DD</string>
+    <string name="confirm_delete_title">Delete ingredient?</string>
+    <string name="confirm_delete_message">This cannot be undone.</string>
+    <string name="item_saved">Ingredient saved</string>
+    <string name="item_deleted">Ingredient deleted</string>
+    <string name="suggested_recipes_title">Suggested Recipes</string>
+    <string name="no_recipes_match">No recipes match your pantry yet - add more ingredients.</string>
+    <string name="recipe_ingredient_count">%1$d ingredients</string>
+    <string name="settings_title">Settings</string>
+    <string name="setting_expiry_alerts">Highlight ingredients expiring within 3 days</string>
+    <string name="expiring_soon">EXPIRING SOON</string>
+    <string name="ingredients_header">Ingredients</string>
+    <string name="method_header">Method</string>
+</resources>
